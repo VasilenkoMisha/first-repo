@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#папки
+.vs/
+
+#сгенерированные файлы
+test/test.vcxproj
+test/test.vcxproj.filters
+test/test.vcxproj.user
